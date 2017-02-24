@@ -1,0 +1,28 @@
+{
+  "name": "gitbook-plugin-graph",
+  "version": "0.1.0",
+  "description": "A simple graph plugin for GitBook",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "gitbook": ">=2.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cjam/gitbook-plugin-graph.git"
+  },
+  "keywords": [
+    "d3",
+    "gitbook"
+  ],
+  "author": "Colter McQuay",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/cjam/gitbook-plugin-graph/issues"
+  },
+  "homepage": "https://github.com/cjam/gitbook-plugin-graph#readme",
+  "dependencies": {
+  }
+}
