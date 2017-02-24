@@ -1,3 +1,4 @@
+"use strict";
 let _uuidCounter = 0;
 function uuid() {
     let id = _uuidCounter++;
